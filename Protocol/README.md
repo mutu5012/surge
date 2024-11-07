@@ -1,9 +1,7 @@
-食用教程：
-
 snell:
 
 ```
-wget -O snell.sh --no-check-certificate https://https://raw.githubusercontent.com/emberdusk/surge/refs/heads/main/Protocol/snell.sh && chmod +x snell.sh && ./snell.sh
+wget -O snell.sh --no-check-certificate https://raw.githubusercontent.com/emberdusk/surge/refs/heads/main/Protocol/snell.sh && chmod +x snell.sh && ./snell.sh
 
 ```
 
