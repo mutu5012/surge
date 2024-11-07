@@ -1,6 +1,6 @@
 #!/bin/bash
 
-export LANG=en_US.UTF-81
+export LANG=en_US.UTF-8
 
 RED="\033[31m"
 GREEN="\033[32m"
