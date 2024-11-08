@@ -9,6 +9,4 @@
 
 <code>Rule文件夹</code>为分流规则；
 
-<code>icom文件夹</code>为图标文件;
-
-<code>Protocol</code>为搭建协议
+<code>Protocol文件夹</code>为搭建协议
